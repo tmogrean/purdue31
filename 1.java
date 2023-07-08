@@ -1,2 +1,3 @@
-This is for testing testing.
-This is form feature branch
+This is from feature branch
+This is for testing conflicts.
+This is from defect branch.
